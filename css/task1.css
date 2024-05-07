@@ -1,0 +1,50 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+.control{
+    width: 1200px;
+    height: 900px;
+    background-color: white;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.cod{
+    width: 440px;
+    height: 300px;
+    
+}
+.box{
+    width: 540px;
+    height: 300px;
+    
+}
+img{
+    width: 420px;
+    height: 280px;
+    padding: 10px;
+}
+i{
+    padding: 20px 10px;
+    display: inline;
+}
+h4{
+    display: inline;
+    
+}
+h2{
+    padding: 40px 10px;
+}
+p{
+    padding: 10px 10px;
+}
+span{
+    margin-left: 200px;
+}
+i{
+    margin-left: 10px;
+}
